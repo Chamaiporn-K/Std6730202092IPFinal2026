@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.expo/
+dist/
+dist-android/
+frontend/android/
+frontend/ios/
+*.tsbuildinfo
+npm-debug.*
+.DS_Store
